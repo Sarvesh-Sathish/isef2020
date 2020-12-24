@@ -12,8 +12,10 @@ int main()
     cout << "Enter your second number: "; cin >> b;
     cout << add(a,b) << endl;
 }
+//sfd
 
 //add method
+// This is new comment hahah
 long add(long a, long b)
 {
     return a+b;
